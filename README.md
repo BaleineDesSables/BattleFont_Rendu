@@ -1,4 +1,4 @@
-# variable_font_exercice1
+# variable_font_Rendu_Final
 
 url de mon site :
-https://clarajacquemoud-prof.github.io/battle_font_exercice1/
+https://baleinedessables.github.io/BattleFont_Rendu/
